@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Matt Dillon
+N;CHARSET=UTF-8:Matt Dillon;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;PO Box 7651;Newtown;Wellington;6242;New Zealand
+EMAIL:mailchimp@powershop.co.nz
+ORG;CHARSET=UTF-8:Powershop
+URL:http://www.powershop.co.nz
+END:VCARD
